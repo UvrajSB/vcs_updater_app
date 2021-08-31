@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Updater</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="categories_array">
+        <item>Earrings</item>
+        <item>Necklaces and Sets</item>
+        <item>Bracelets and Bangle</item>
+        <item>Rings and Nosepins</item>
+        <item>Anklets</item>
+        <item>Scrunchies and Others</item>
+    </string-array>
+</resources>

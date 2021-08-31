@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "707632166841",
+    "firebase_url": "https://shoppingio-c96bc-default-rtdb.firebaseio.com",
+    "project_id": "shoppingio-c96bc",
+    "storage_bucket": "shoppingio-c96bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707632166841:android:7096ec754fced155262868",
+        "android_client_info": {
+          "package_name": "com.example.android.shoppingio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707632166841-id1m79rcq366ne6k1duv8s44onngnviv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.shoppingio",
+            "certificate_hash": "617c8daf50e1e1d0728287abae7331b2ed27be98"
+          }
+        },
+        {
+          "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJi7_Cxz-EL7zr2C8bfdjXpFGUfLucj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707632166841:android:3560a77f0e152385262868",
+        "android_client_info": {
+          "package_name": "com.vc.android.updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJi7_Cxz-EL7zr2C8bfdjXpFGUfLucj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707632166841:android:f121ecc00506912b262868",
+        "android_client_info": {
+          "package_name": "com.vs.android.updater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707632166841-a3luboph6h51m3d2iq1sg90m9iqk11kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vs.android.updater",
+            "certificate_hash": "617c8daf50e1e1d0728287abae7331b2ed27be98"
+          }
+        },
+        {
+          "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJi7_Cxz-EL7zr2C8bfdjXpFGUfLucj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707632166841-fsopif4lfb8gn3ov5edga6fkdl732dui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
